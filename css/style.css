@@ -1,0 +1,21 @@
+body{
+	margin:0;
+	padding:0;
+	background-color: #f1f1f1;
+}
+.box{
+	width:500px;
+	border:1px solid #ccc;
+	background-color: #fff;
+	border-radius: 5px;
+}
+
+#load_tweets{
+	padding:16px;
+	background-color: #f1f1f1;
+	margin-bottom: 30px;
+}
+#load_tweets p{
+	padding:12px;
+	border-bottom: 1px dotted #ccc;
+}
